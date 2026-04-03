@@ -1,0 +1,5 @@
+{
+  "name": "ピアノ曲マッチング診断",
+  "description": "15問の質問であなたの音楽的嗜好を分析し、最適なピアノ曲をレコメンドします。",
+  "requestFramePermissions": []
+}
